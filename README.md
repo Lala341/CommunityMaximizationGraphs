@@ -10,9 +10,9 @@ This repository contains the implementation and documentation for the research p
 ## Repository Structure
 - `InfluenceMaximization/`: Contains the implementation code for influence maximization.
 - `Community Detection/`: Contains the implementation code for Community.
-- `Datasets/': Contains dataset for Facebook and Twitch
+- `Datasets/`: Contains dataset for Facebook and Twitch
 - `docs/`: Documentation related to the project, including research papers, and others
-- `delivery.pdf': Documentation related to the project, results amd analysis.
+- `delivery.pdf`: Documentation related to the project, results amd analysis.
 
 ## Usage
 To use the code provided in this repository, follow these steps:
