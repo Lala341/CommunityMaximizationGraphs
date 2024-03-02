@@ -1,4 +1,6 @@
 # Delivery Massive Graph Management and Analytics
+Authors: Isabella Laura Camacho Forero &&& Chidiebere Ogbuchi
+Extensive documentation, results and analysis are contained in the delivery.pdf
 
 ## Overview
 This repository contains the implementation and documentation for the research project titled "Greedy/Heuristic vs. ML for Community Detection and Influence Maximization". The project explores the comparison between Greedy/Heuristic methods and Machine Learning approaches for community detection and influence maximization in massive graphs.
