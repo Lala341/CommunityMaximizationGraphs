@@ -1,5 +1,6 @@
 # Delivery Massive Graph Management and Analytics
 Authors: Isabella Laura Camacho Forero &&& Chidiebere Ogbuchi
+
 Extensive documentation, results and analysis are contained in the delivery.pdf
 
 ## Overview
