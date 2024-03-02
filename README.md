@@ -8,7 +8,7 @@ This repository contains the implementation and documentation for the research p
 
 
 ## Repository Structure
-- `InfluenceMaximization/`: Contains the implementation code for influence macimization.
+- `InfluenceMaximization/`: Contains the implementation code for influence maximization.
 - `docs/`: Documentation related to the project, including research papers, reports, and presentation slides.
 
 ## Usage
