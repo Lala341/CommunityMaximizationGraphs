@@ -43,7 +43,6 @@ Note:
 - The command-line arguments are used to specify the path to the file containing the network data, the range of nodes to consider, and the desired sample size of the network.
 - The script will also use test data if the file does not exist.
 - Edge file should follow format of the examples provided and be without header.
-- The script will visualize a subset of the large network and identify communities using the Clique Percolation Method.
 - The identified communities will be analyzed, and the community structure will be visualized.
-- Save all the results to the Home directory.
+- All the results are saved to the root directory.
     
