@@ -1,5 +1,5 @@
 # Delivery Massive Graph Management and Analytics
-Authors: Isabella Laura Camacho Forero &&& Chidiebere Ogbuchi
+Authors: Isabella Laura Forero &&& Chidiebere Ogbuchi
 
 Extensive documentation, results and analysis are contained in the Report_MGMA_Ogbuchi_Forero.pdf
 
