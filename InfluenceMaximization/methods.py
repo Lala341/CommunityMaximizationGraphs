@@ -510,6 +510,9 @@ def influence_maximization(G, num_steps):
     plt.savefig(save_path +'figure_c42.png')
 
 
+    
+
+
 
 def execute_models_comparison(G):
     seed_size=10
